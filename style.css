@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+html, body {
+    background-color: #add8e6;
+}
+.container{
+    margin: 10px;
+    padding: 0;
+}
+.input-form{
+    margin: 10px;
+    padding: 0;
+}
+img{
+    width: 300px;
+    height: 400px;
+    
+}
